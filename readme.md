@@ -1,4 +1,4 @@
--Dans le code, chargez les stations qui vous interessent. La liste peut être récupérée içi: http://www.velov.grandlyon.com/Plan-interactif.61.0.html  
+-Dans le code, chargez les stations qui vous interessent. La liste peut être récupérée ici: http://www.velov.grandlyon.com/Plan-interactif.61.0.html  
 -Ajouter dans le projet xCode les fichiers sont correspondant à ces stations.  
 -Compiler. C'est prêt:)  
   
